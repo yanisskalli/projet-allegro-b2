@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1733676953 source:c:\users\yanis\desktop\projet allegro\pacman\main.c
+	<allegro.h>
+	"labyrinth.h"
+	"game.h"
+	"graphics.h"
+	"sounds.h"
+
+1733525303 c:\users\yanis\desktop\projet allegro\pacman\include\labyrinth.h
+
+1733677055 c:\users\yanis\desktop\projet allegro\pacman\include\game.h
+	"labyrinth.h"
+	<allegro.h>
+
+1733507175 c:\users\yanis\desktop\projet allegro\pacman\include\graphics.h
+	<allegro.h>
+	"labyrinth.h"
+
+1733672245 source:c:\users\yanis\desktop\projet allegro\pacman\src\graphics.c
+	"graphics.h"
+
+1733677265 source:c:\users\yanis\desktop\projet allegro\pacman\src\game.c
+	"game.h"
+	"graphics.h"
+	"sounds.h"
+	<allegro.h>
+	<stdlib.h>
+	<time.h>
+
+1733525291 source:c:\users\yanis\desktop\projet allegro\pacman\src\labyrinth.c
+	"labyrinth.h"
+	<stddef.h>
+
+1733523675 c:\users\yanis\desktop\projet allegro\pacman\include\sounds.h
+
+1733672100 source:c:\users\yanis\desktop\projet allegro\pacman\src\sounds.c
+	"sounds.h"
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+
